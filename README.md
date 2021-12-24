@@ -1,2 +1,2 @@
 # AWS
-A simple repo for practicing AWS 
+A simple repo for practicing AWS and Azure
